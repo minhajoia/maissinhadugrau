@@ -1,6 +1,4 @@
-# maissinhadugrau
-diga nao ao job
- Olá Bem vindos ao meu perfil 💙💙
+Olá Bem vindos ao meu perfil 💙💙# maissinhadugrau
 Meu nome é maissa sousa santos
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript

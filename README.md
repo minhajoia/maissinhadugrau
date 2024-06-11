@@ -1,2 +1,2 @@
 # maissinhadugrau
-diga nao ao job
+diga nao ao trabalho
